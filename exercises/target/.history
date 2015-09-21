@@ -1,0 +1,7 @@
+compile
+console
+exit
+scala MyModule
+console MyModule
+:q
+exit
