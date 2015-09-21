@@ -5,3 +5,9 @@ scala MyModule
 console MyModule
 :q
 exit
+compile
+console
+scala MyModule
+projects
+tree
+exit

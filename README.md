@@ -20,6 +20,9 @@
 - FUNCTIONS ARE VALUES, therefore can be assigned to variables, stored in data structures, and passed as arguments to functions
 - Higher order function: accepts other functions as arguments
 - Pg 22: MyModule.formatResult("absolute value", -42, MyModule.abs)
+- Pg 23: PolymorphicFunctions.findFirst2(Array(7,9,13), (x: Int) => x == 9)
+- (x: Int) => x == 9 // This is a function literal or anonymous function
+- <function2> notation in the REPL indicators that the value is a function that takes two arguments
 
 ---
 This repository contains exercises, hints, and answers for the book
